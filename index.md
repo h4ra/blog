@@ -2,6 +2,6 @@
 layout: home
 ---
 
-# Welcome to harasunflower
+# Welcome
 
 This is where I share my stories, ideas, and experiences.
